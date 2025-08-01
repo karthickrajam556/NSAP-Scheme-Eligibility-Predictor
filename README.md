@@ -1,5 +1,9 @@
 # NSAP-Scheme-Eligibility-Predictor
 
+This project was completed as part of the **AICTE Virtual Internship** in collaboration with **Edunet Foundation** and **IBM Cloud**, under the theme:  
+**“NSAP-Scheme-Eligibility-Predictor”** — a real-world social challenge focused on data-driven policy insights.
+
+
 # 🌐 NSAP Scheme Eligibility Predictor (No-Code ML using IBM Watsonx.ai)
 
 This is a simple and smart project where I built a machine learning model without writing any code — using **IBM Watsonx.ai Studio**.
